@@ -1,0 +1,104 @@
+{
+  "pitches": [
+    {
+      "image": "https://m.media-amazon.com/images/I/61RjUgGy04L._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 52,
+      "percentage": 25,
+      "description": "Just over a year old, Haryana-based Hammer founded by Rohit Nandwani has streamlined its product range keeping with the shift to wireless audio tech. It is now focused on strengthening its D2C game.",
+      "founder": "Rohit Nandwani",
+      "category": "Electronics",
+      "year": "21-03-2012",
+      "title": "Hammer",
+      "id": "6"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/51DUbOFXgHL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "350",
+      "percentage": 5,
+      "description": "'Auli Lifestyle' has been conceptualised and created by the effervescent Aishwarya Biswas. Her passion for wellness essentials",
+      "founder": "Aishwarya Biswas",
+      "category": "Personal Care",
+      "year": "14-06-2016",
+      "title": "auli narri",
+      "id": "7"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71Wa7-cOUqL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "19",
+      "percentage": 2.5,
+      "description": "Looking for Quirky shoes & clothes? Check out The Quirky Naari! Explore a range of LED shoes & Party wear sneakers that will make you stand out",
+      "founder": "Malvica Saxena",
+      "category": "Fashion",
+      "year": "14-08-2021",
+      "title": "Quirky ",
+      "id": "8"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png/v1/crop/x_237,y_352,w_1328,h_1331/fill/w_614,h_614,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png",
+      "price": 54,
+      "percentage": 12,
+      "description": "Asia's first and only custom made electric kick scooter operator.World’s first in-premises electric vehicle hybrid-subscription fleet service.",
+      "founder": "Rutvij Dasadia ",
+      "category": "Education",
+      "year": "21-05-2021",
+      "title": "Booz scooters",
+      "id": "9"
+    },
+    {
+      "id": "10",
+      "price": "10"
+    },
+    {
+      "image": "https://www.cocofit.in/images/Picture4_large.png",
+      "price": 25,
+      "percentage": 3.5,
+      "description": "We strive, respect and work hard every second taking our demigod to a new level with a delicious serving that would be a life changing experience.",
+      "founder": "Sashi Kanth V",
+      "category": "Food",
+      "year": "17-11-2017",
+      "title": "Cocofit",
+      "id": "11"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
+      "price": 26,
+      "percentage": 2.56,
+      "description": "Falhari is India’s #1 fresh fruit products brand with an extensive range of delightful, made-to-order recipes of Salads, Juices, Smoothies, Lassis, Yoghurts, and more",
+      "founder": "Rahul Shankar Bhardwaj",
+      "category": "Food",
+      "year": "20-12-2021",
+      "title": "Falhari",
+      "id": "13"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOkeAS5PgCBISOPRp_mZJuIxJ74IyCAlP_A&usqp=CAU",
+      "price": 50,
+      "percentage": 2,
+      "description": "We push our boundaries every day, we’re here to innovate and inspire a new generation of sustainable sanitation technology. PadCare isn’t a startup, it’s a revolution.",
+      "founder": "Ajinkya Dhariya",
+      "category": "Electronics",
+      "year": "07-09-2022",
+      "title": "Padcare Lab",
+      "id": "15"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/617QlJ62nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 57,
+      "percentage": 2,
+      "description": "aradyes is a semi-permanent hair color brand. She introduced the brand by identifying a gap in the market. Banking on her family business of dyes and intermediates, she teamed up with professionals and began R&D to formulate hair colors in their lab.",
+      "founder": "Yushika Jolly,",
+      "category": "Personal Care",
+      "year": "01-07-2021",
+      "title": "Paradyes",
+      "id": "16"
+    },
+    {
+      "id": "491e",
+      "title": "laptop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlygWcz51gyDexlstejSgZZ2LSxqF4rBz3wQ&s",
+      "category": "electronics",
+      "founder": "stack",
+      "price": "80000"
+    }
+  ]
+}

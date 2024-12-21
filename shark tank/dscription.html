@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>hello description ......</h1>
+
+    <h2 id="id">id:</h2>
+    <img src="" id="image">
+
+    <h4>title:<span id="title"></span></h4>
+    <h4>founder:<span id="founder"></span></h4>
+    <h4>category:<span id="category"></span></h4>
+    <h4>price:<span id="price"></span></h4>
+
+     <button>Add to cart </button>
+    <script>
+
+     const parm = new URLSearchParams(window.location.search)
+
+     let title = parm.get("title")
+     document.getElementById('title').innerText = title;
+
+     let image = parm.get("image")
+     document.getElementById('image').src = image;
+
+
+     let founder = parm.get("founder")
+     document.getElementById('founder').innerText = founder;
+
+     let category = parm.get("category")
+     document.getElementById('category').innerText = category;
+
+
+     let price = parm.get("price")
+     document.getElementById('price').innerText = price;
+
+    </script>
+
+
+    
+</body>
+</html>
